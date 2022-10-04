@@ -121,3 +121,4 @@ result: JGNNQ, YQTNF!
 - [Codecademy](https://www.codecademy.com/)
 - [JavaScript charCodeAt() MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt)
 - [JavaScript String.fromCharCode() MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
+- [W3schools ASCII Reference](https://www.w3schools.com/charsets/ref_html_ascii.asp)
